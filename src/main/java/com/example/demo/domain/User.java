@@ -9,7 +9,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class User {
     private Long id;
-    private String sn;
-    private Integer age;
-    private String adress;
+    private Integer  size;
 }
